@@ -22,6 +22,7 @@
 		9AD44CBC1E4C980100E6F7ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AD44CBF1E4C980100E6F7ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AD44CC11E4C980100E6F7ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AD44CC81E4C98A700E6F7ED /* rounded-l-mgenplus-1c-black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "rounded-l-mgenplus-1c-black.ttf"; path = "../../rounded-l-mgenplus-1-20150602 (2)/rounded-l-mgenplus-1c-black.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +61,17 @@
 				9AD44CBC1E4C980100E6F7ED /* Assets.xcassets */,
 				9AD44CBE1E4C980100E6F7ED /* LaunchScreen.storyboard */,
 				9AD44CC11E4C980100E6F7ED /* Info.plist */,
+				9AD44CC71E4C988C00E6F7ED /* fonts */,
 			);
 			path = FirstKadai;
+			sourceTree = "<group>";
+		};
+		9AD44CC71E4C988C00E6F7ED /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				9AD44CC81E4C98A700E6F7ED /* rounded-l-mgenplus-1c-black.ttf */,
+			);
+			name = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
